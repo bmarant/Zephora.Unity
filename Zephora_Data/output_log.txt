@@ -1,0 +1,133 @@
+Initialize engine version: 5.3.4p4 (43a3882ae25c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 4300 Series (ID=0x9552)
+    Vendor:   ATI
+    VRAM:     1401 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.226 seconds
+Platform assembly: C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Brad\Desktop\ZephoraTheBeginning\Zephora_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.940956 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2080 -> priority: 1 
+74.80.233.85:4546
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Admin
+Password: Admin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Receiving...
+Success; 
+
+
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Success
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.213112 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 337.
+Total: 0.784595 ms (FindLiveObjects: 0.056828 ms CreateObjectMapping: 0.072226 ms MarkObjects: 0.632442 ms  DeleteObjects: 0.021631 ms)
+
+Failed to initialize network interface. Is the listen port already in use?
+ 
+(Filename:  Line: 221)
+
+It's not possible to register a host until it is running.
+ 
+(Filename:  Line: 596)
+
+Admin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Admin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+74.80.233.834545
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Refreshing....
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+1 Server has been found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.981446 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.889452 ms (FindLiveObjects: 0.061594 ms CreateObjectMapping: 0.052428 ms MarkObjects: 0.743532 ms  DeleteObjects: 0.030797 ms)
+
+-1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
